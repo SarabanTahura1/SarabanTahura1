@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SarabanTahura1
+- 👋 Hi, I’m @SarabanTahura
 - 👀 I’m interested in Web DEveloping
 - 🌱 I’m currently learning Progranmming Language
 - 💞️ I’m looking to collaborate on ...
